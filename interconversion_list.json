@@ -1,5 +1,5 @@
 {
-  "version": "2025-11-19-01",
+  "version": "2025-11-19-02",
   "data": {
     "interconversionCardList": [
       {
@@ -109,6 +109,10 @@
       {
         "official_name": "糾罪巧－Atoriϝ.MAR",
         "wiki_name": "糾罪巧－アトリマール"
+      },
+      {
+        "official_name": "影雄の烬 エグリスタ",
+        "wiki_name": "トフシャドール エグリスタ"
       },
       {
         "official_name": "絶火の祆現",
