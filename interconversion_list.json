@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-05-01",
+  "version": "2026-09-05-02",
   "data": {
     "interconversionCardList": [
       {
@@ -37,6 +37,10 @@
       {
         "official_name": "糾罪巧－Atoriϝ.MAR",
         "wiki_name": "糾罪巧－アトリマール"
+      },
+      {
+        "official_name": "影雄の烬 エグリスタ",
+        "wiki_name": "トフシャドール エグリスタ"
       },
       {
         "official_name": "K９－ØØ号 ルプス",
